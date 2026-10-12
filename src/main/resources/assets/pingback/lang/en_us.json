@@ -1,0 +1,21 @@
+{
+  "category.pingback": "Pingback",
+  "key.pingback.reply": "Reply to last message",
+  "key.pingback.cycle": "Cycle through recent senders",
+  "key.pingback.cancel": "Cancel pending reply",
+  "key.pingback.toggle": "Toggle Pingback on/off",
+
+  "pingback.tooltip.arrow": "The arrow that separates the quote from your reply.",
+  "pingback.tooltip.quoteLength": "How many characters of the original message are kept in the quote. Longer messages are cut off and end with \"...\".",
+  "pingback.tooltip.original": "Original message",
+  "pingback.tooltip.reply": "Your reply (updates live)",
+
+  "pingback.status.target": "Pingback target: @%s - type your reply",
+  "pingback.status.noMessages": "No messages to reply to yet",
+  "pingback.status.cancelled": "Pingback reply cancelled",
+  "pingback.status.enabled": "Pingback enabled",
+  "pingback.status.disabled": "Pingback disabled",
+  "pingback.status.reloaded": "Pingback config reloaded",
+
+  "text.pingback.arrow": "--->"
+}

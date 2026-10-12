@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "pingback",
+  "version": "${version}",
+  "name": "Pingback",
+  "description": "Reply to chat messages with a quote and an automatic @mention, so your answer stays clear in a busy chat. Client-side only, no server mod needed.",
+  "authors": ["Kiuox"],
+  "contact": {
+    "homepage": "https://github.com/iKiuox/Pingback-",
+    "issues": "https://github.com/iKiuox/Pingback-/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/pingback/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.kiuox.pingback.PingbackClient"],
+    "modmenu": ["dev.kiuox.pingback.integration.PingbackModMenu"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "fabric-api": "*",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  },
+  "suggests": {
+    "modmenu": "*",
+    "yet_another_config_lib_v3": "*"
+  }
+}

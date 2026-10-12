@@ -1,0 +1,21 @@
+{
+  "category.pingback": "پینگ‌بک",
+  "key.pingback.reply": "پاسخ به آخرین پیام",
+  "key.pingback.cycle": "چرخش بین فرستنده‌های اخیر",
+  "key.pingback.cancel": "لغو پاسخ در انتظار",
+  "key.pingback.toggle": "روشن/خاموش کردن پینگ‌بک",
+
+  "pingback.tooltip.arrow": "فلشی که نقل‌قول را از پاسخ شما جدا می‌کند.",
+  "pingback.tooltip.quoteLength": "تعداد کاراکترهایی از پیام اصلی که در نقل‌قول نگه داشته می‌شود. پیام‌های بلندتر بریده می‌شوند و با «...» تمام می‌شوند.",
+  "pingback.tooltip.original": "پیام اصلی",
+  "pingback.tooltip.reply": "پاسخ شما (زنده)",
+
+  "pingback.status.target": "هدف پینگ‌بک: @%s - پاسخ را تایپ کنید",
+  "pingback.status.noMessages": "هنوز پیامی برای پاسخ دادن نیست",
+  "pingback.status.cancelled": "پاسخ پینگ‌بک لغو شد",
+  "pingback.status.enabled": "پینگ‌بک روشن شد",
+  "pingback.status.disabled": "پینگ‌بک خاموش شد",
+  "pingback.status.reloaded": "تنظیمات پینگ‌بک بازخوانی شد",
+
+  "text.pingback.arrow": "<---"
+}
